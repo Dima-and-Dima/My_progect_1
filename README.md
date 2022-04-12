@@ -1,4 +1,4 @@
-# My_progect_1
+# My_project_1
 Atmega progect.   Pellet and wood automation.  Dima-and-Dima
 
 You can see  the project wrote in  C. 
