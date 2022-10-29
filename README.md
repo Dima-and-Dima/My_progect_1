@@ -1,8 +1,6 @@
 # My_project_1
-Atmega progect.   Pellet and wood automation.  Dima-and-Dima
-
-You can see  the project wrote in  C. 
-
+Atmega progect.   Pellet and wood automation.  Dima-and-Dima 
+...
 
 Monitoring and Control Systems intended  a boiler any type .
 
